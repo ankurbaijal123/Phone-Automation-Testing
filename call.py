@@ -162,8 +162,8 @@ def make_and_end_call(to_number=None):
         if not to_number:
             to_number = input("Enter the phone number to call (including country code): ").strip()
 
-        account_sid = 'AC1e082465367300775532b3112c83aa7a'
-        auth_token = '59f1f3744a87a4594065729caad12df8'
+        account_sid = //enter here
+        auth_token = //enter here
         client = Client(account_sid, auth_token)
         call = client.calls.create(
             url='http://demo.twilio.com/docs/voice.xml',
