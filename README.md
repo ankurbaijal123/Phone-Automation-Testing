@@ -1,3 +1,3 @@
 git clone this repository
-run test_gui.py
-run IOS_GUI.py
+run test_gui.py for Android Test
+run IOS_GUI.py for iOS Testing
